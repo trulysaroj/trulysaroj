@@ -1,3 +1,9 @@
+
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvA8_CEGVR7dX0blA_MBdSGZw2z5voSkI4A&usqp=CAU" align="center" style="width: 100%" />
+</div>  
+  
+
 <h1 align="center">Namaste 🙏, I'm Saroj</h1>
 <h3 align="center">A guy, Who talk more with computers than humans. Besides coding, you will find me Reading books, learning new things & getting lost in the sublime melodies of instrumental music.</h3>
 
