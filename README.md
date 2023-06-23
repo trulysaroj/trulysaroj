@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Namaste 🙏, I'm Saroj</h1>
-<h3 align="center">A guy, Who talk more with computers than humans. Besides coding, you will find me Reading books, learning new things & getting lost in the sublime melodies of instrumental music.</h3>
+<h3 align="center">A guy, who talk more with computers than humans. Besides coding, you will find me Reading books, learning new things & getting lost in the sublime melodies of instrumental music.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trulysaroj&label=Profile%20views&color=0e75b6&style=flat" alt="trulysaroj" /> </p>
 
