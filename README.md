@@ -2,15 +2,26 @@
 
 
 <h1 align="center">Namaste 🙏, I'm Saroj</h1>
-<h3 align="center">A guy, who talk more with computers than humans. Besides coding, you will find me Reading books, learning new things & getting lost in the sublime melodies of instrumental music.</h3>
+<h3 align="center">A guy, who loves to talk more with computers than humans.
+  
+  
+  Besides coding, you will find me  Reading books,  learning new things & 
+  getting lost in the sublime melodies of instrumental music ... </h3>
 
+
+
+___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trulysaroj&label=Profile%20views&color=0e75b6&style=flat" alt="trulysaroj" /> </p>
+
+
 
 - 🌱 I’m currently learning **Full-stack Development**
 
 - 📫 How to reach me **sarojt7475@gmail.com**
 
-- ⚡ Fun fact **I get easily bored, so I put every boring stuff inside a loop ...**
+- ⚡ Fun fact *I’m obsessed with Facts/truth; Others’ opinions are just fun ...*
+
+___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
