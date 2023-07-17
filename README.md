@@ -5,19 +5,23 @@
 <h3 align="center">A guy, who loves to talk more with computers than humans.
   
   
-  Besides coding, you will find me  Reading books,  learning new things & 
+  Besides coding, you'll find me  Reading books,  learning new things & 
   getting lost in the sublime melodies of instrumental music ... </h3>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trulysaroj&label=Profile%20views&color=0e75b6&style=flat" alt="trulysaroj" /> </p>
 
+## About me:
 
+- 👨‍💻  I’m, a tech fanatic, passionate about crafting scalable user-friendly webApps
+- ♾️  I'm a lifelong learner, forever hungry for knowledge
+- 🌱  Currently learning **Full-stack with MERN & Next JS**
+- 🤝 I’m looking forward to collaborate on exciting projects
 
-- 🌱 I’m currently learning **Full-stack Development**
 
 - 📫 How to reach me **sarojt7475@gmail.com**
+
 
 - ⚡ Fun fact *I’m obsessed with Facts/truth; Others’ opinions are just fun ...*
 
@@ -28,9 +32,39 @@ ___
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tsaroj7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tsaroj7/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="left">My Tools & Weapons:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trulysaroj&show_icons=true&locale=en&layout=compact" alt="trulysaroj" /></p>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white).
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white).
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white).
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white).
+
+
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white).
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white).
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white).
+
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white).
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white).
+
+
+
+
+
+
+
+### Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trulysaroj&show_icons=true&locale=en" alt="trulysaroj" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trulysaroj&label=Profile%20views&color=0e75b6&style=flat" alt="trulysaroj" /> </p>
