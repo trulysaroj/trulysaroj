@@ -29,7 +29,7 @@
 
 ### Connect with me:
 
-[**Linkedin**](https://www.linkedin.com/in/trulysaroj/)   |  [**Twitter**](https://www.freecodecamp.om)  |  [**Discord**](https://www.freecodecamp.org/news/how-to-add-a-social-media-image-to-your-github-project/) 
+[**Linkedin**](https://www.linkedin.com/in/trulysaroj/)  | [**X**]()  |   [**Discord**](https://discord.gg/wsr8x3cP) 
 
 
 
