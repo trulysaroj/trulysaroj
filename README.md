@@ -1,12 +1,11 @@
 
 
 
-<h1 align="center">Namaste 🙏, I'm Saroj</h1>
-<h3 align="center">A guy, who loves to talk more with computers than humans.
+<h1 align="left">Namaste 🙏, I'm Saroj</h1>
+ <h4 align="left">  A guy, who loves to talk more with computers than humans. 
   
-  
-  Besides coding, you'll find me  Reading books,  learning new things & 
-  getting lost in the sublime melodies of instrumental music ... </h3>
+  Besides coding,  you'll find me  Reading books,  learning new things  
+  & getting lost in the melodious instrumental music ... </h4>
 
 
 
@@ -18,18 +17,19 @@
 - ♾️  I'm a lifelong learner, forever hungry for knowledge
 - 🌱  Currently learning **Full-stack with MERN & Next JS**
 - 🤝 I’m looking forward to collaborate on exciting projects
-
-
 - 📫 How to reach me **sarojt7475@gmail.com**
+- ⚡ Fun fact  _I’m obsessed with Facts/truth; Others’ opinions are just fun ..._
 
 
-- ⚡ Fun fact *I’m obsessed with Facts/truth; Others’ opinions are just fun ...*
 
 
 
-### Connect with me:
 
-[**Linkedin**](https://www.linkedin.com/in/trulysaroj/)  | [**X**]()  |   [**Discord**](https://discord.gg/wsr8x3cP) 
+
+
+
+                                              
+
 
 
 
@@ -65,5 +65,12 @@
 ### Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trulysaroj&show_icons=true&locale=en" alt="trulysaroj" /></p>
+
+
+>    ***"If anything is worth doing, do it with all your heart"
+   <br>- Buddha***
+
+
+   </p>
 
 
