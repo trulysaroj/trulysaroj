@@ -15,7 +15,7 @@
 
 - 👨‍💻  I’m, a tech fanatic, passionate about crafting scalable user-friendly webApps
 - ♾️  I'm a lifelong learner, forever hungry for knowledge
-- 🌱  Currently learning **Full-stack with MERN & Next JS**
+- 🌱  Currently learning **TypeScript, Next JS + Framer Motion**
 - 🤝 I’m looking forward to collaborate on exciting projects
 - 📫 How to reach me **sarojt7475@gmail.com**
 - ⚡ Fun fact  _I’m obsessed with Facts/truth; Others’ opinions are just fun ..._
