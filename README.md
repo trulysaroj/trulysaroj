@@ -6,10 +6,11 @@
 
 
 
+
 <a href='https://sarojt.com.np/'>
   
 
-![Github Banner](https://github.com/trulysaroj/trulysaroj/assets/123483889/722947af-e3aa-44fa-9907-61ed33546129)
+![github _new](https://github.com/trulysaroj/trulysaroj/assets/123483889/4b768ab6-87f6-434d-b6ab-1e896826d232)
 
 
 
